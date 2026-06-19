@@ -1,0 +1,75 @@
+# Lorenzo's Barber Shop Website
+
+WEDE5020 Part 3 Final POE Submission
+
+Student: [Friend's Name]
+Student Number: [Student Number]
+
+This website was developed as part of the WEDE5020 Portfolio of Evidence (POE). The project demonstrates the implementation of HTML,
+CSS, JavaScript, Search Engine Optimization (SEO), form validation, interactive gallery features, responsive design principles, and GitHub version control.
+
+Version 3.0 – Final POE Submission (June 2026)
+
+Added
+
+* Search Engine Optimization (SEO) meta tags on all web pages.
+* JavaScript form validation for booking forms.
+* Interactive image gallery lightbox.
+* Google Maps location section on the Find Us page.
+* Automatic booking confirmation page with countdown redirect.
+* Hover animations on navigation links and gallery images.
+* Responsive page layout using CSS Grid.
+* Mobile-friendly design improvements.
+
+Improved
+
+* Website folder structure organized into:
+    * css/
+    * js/
+    * images/
+    * documents/
+* Navigation bar consistency across all pages.
+* User experience through interactive elements.
+* Image gallery presentation and accessibility.
+
+Fixed
+
+* Broken image paths.
+* Navigation highlighting issues.
+* Booking form validation errors.
+* Gallery lightbox closing functionality.
+* General HTML validation issues.
+
+Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+* GitHub
+* Google Maps Embed API
+
+Repository Structure
+
+Lorenzo-Barber-Shop/
+│
+├── css/
+│   └── styles.css
+│
+├── js/
+│   ├── script.js
+│   ├── booking.js
+│   └── confirmation.js
+│
+├── images/
+│   └── (all website images)
+│
+├── documents/
+│   └── Part 2 Improvements.pdf
+│
+├── index.html
+├── service.html
+├── gallery.html
+├── find us.html
+├── book now.html
+└── confirmation.html
+
